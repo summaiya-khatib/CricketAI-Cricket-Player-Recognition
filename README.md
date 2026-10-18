@@ -1,2 +1,5 @@
-# CricketAI-Cricket-Player-Recognition
-Cricket player recognition using Python, facial recognition, OpenCV, and Flask, with player statistics and achievements.
+How to run?
+
+First activate env: env\Scripts\activate
+
+then : python run.py

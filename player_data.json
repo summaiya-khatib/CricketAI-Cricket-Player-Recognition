@@ -1,0 +1,1135 @@
+[
+  {
+    "name": "Virat Kohli",
+    "role": "Batsman",
+    "country": "India",
+    "dob": "November 5, 1988",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "total_runs": 26532,
+    "total_wickets": "NA",
+    "batting_average": 53.62,
+    "bowling_average": "NA",
+    "total_centuries": 80,
+    "total_fifties": 139,
+    "strike_rate": "NA",
+    "economy_rate": "NA",
+    "best_figures": "NA",
+    "stats": {
+      "Test": "Matches: 111, Runs: 8676, Average: 49.29, Strike Rate: 56.97, Centuries: 29, Fifties: 30, Highest: 254*",
+      "ODI": "Matches: 292, Runs: 13848, Average: 58.18, Strike Rate: 93.54, Centuries: 50, Fifties: 72, Highest: 183",
+      "T20I": "Matches: 115, Runs: 4008, Average: 52.73, Strike Rate: 137.96, Centuries: 1, Fifties: 37, Highest: 122*"
+    },
+    "achievements": [
+      "ICC ODI Player of the Year (2012, 2017, 2018)",
+      "ICC Test Player of the Year (2018)",
+      "Wisden Leading Cricketer (2016, 2017, 2018)",
+      "Fastest to 8000, 9000, 10000, 11000, 12000 ODI runs",
+      "Captain of India across all formats"
+    ]
+  },
+  {
+    "name": "MS Dhoni",
+    "role": "Wicket-keeper",
+    "country": "India",
+    "dob": "July 7, 1981",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "total_runs": 17266,
+    "total_wickets": "NA",
+    "batting_average": 44.96,
+    "bowling_average": "NA",
+    "total_centuries": 16,
+    "total_fifties": 108,
+    "strike_rate": "NA",
+    "economy_rate": "NA",
+    "best_figures": "NA",
+    "stats": {
+      "Test": "Matches: 90, Runs: 4876, Average: 38.09, Strike Rate: 58.99, Centuries: 6, Fifties: 33, Highest: 224",
+      "ODI": "Matches: 350, Runs: 10773, Average: 50.58, Strike Rate: 87.56, Centuries: 10, Fifties: 73, Highest: 183*",
+      "T20I": "Matches: 98, Runs: 1617, Average: 37.60, Strike Rate: 126.13, Centuries: 0, Fifties: 2, Highest: 56"
+    },
+    "achievements": [
+      "2011 Cricket World Cup Winner (Captain)",
+      "2007 T20 World Cup Winner (Captain)",
+      "2013 Champions Trophy Winner (Captain)",
+      "ICC ODI Player of the Year (2008, 2009)",
+      "Most successful Indian captain",
+      "Most dismissals by wicket-keeper in ODIs"
+    ]
+  },
+  {
+    "name": "Rohit Sharma",
+    "role": "Batsman",
+    "country": "India",
+    "dob": "April 30, 1987",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm off break",
+    "total_runs": 18863,
+    "total_wickets": "NA",
+    "batting_average": 43.46,
+    "bowling_average": "NA",
+    "total_centuries": 46,
+    "total_fifties": 96,
+    "strike_rate": "NA",
+    "economy_rate": "NA",
+    "best_figures": "NA",
+    "stats": {
+      "Test": "Matches: 56, Runs: 4301, Average: 46.54, Strike Rate: 57.73, Centuries: 11, Fifties: 16, Highest: 212",
+      "ODI": "Matches: 265, Runs: 10709, Average: 49.35, Strike Rate: 90.55, Centuries: 31, Fifties: 51, Highest: 264",
+      "T20I": "Matches: 148, Runs: 3853, Average: 31.32, Strike Rate: 139.24, Centuries: 4, Fifties: 29, Highest: 118"
+    },
+    "achievements": [
+      "Highest individual score in ODIs (264)",
+      "Only player with 3 ODI double centuries",
+      "Only player with 4 T20I centuries",
+      "ICC Men's ODI Cricketer of the Year (2019)",
+      "Captain of Mumbai Indians (5 IPL titles)"
+    ]
+  },
+  {
+    "name": "Jasprit Bumrah",
+    "role": "Bowler",
+    "country": "India",
+    "dob": "December 6, 1993",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "total_runs": "NA",
+    "total_wickets": 334,
+    "batting_average": "NA",
+    "bowling_average": 21.95,
+    "total_centuries": "NA",
+    "total_fifties": "NA",
+    "strike_rate": 45.2,
+    "economy_rate": 4.52,
+    "best_figures": "6/27",
+    "stats": {
+      "Test": "Matches: 34, Wickets: 143, Bowling Average: 20.69, Economy: 2.69, Best: 6/27",
+      "ODI": "Matches: 79, Wickets: 121, Bowling Average: 24.43, Economy: 4.63, Best: 6/19",
+      "T20I": "Matches: 60, Wickets: 70, Bowling Average: 20.22, Economy: 6.62, Best: 3/11"
+    },
+    "achievements": [
+      "Fastest Indian to 100 Test wickets",
+      "ICC Men's ODI Player of the Year (2023)",
+      "Leading wicket-taker in T20 World Cup 2024",
+      "First Asian bowler to take 5+ wickets in innings in Australia, England, South Africa",
+      "Mumbai Indians key bowler"
+    ]
+  },
+  {
+    "name": "Sachin Tendulkar",
+    "role": "Batsman",
+    "country": "India",
+    "dob": "April 24, 1973",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm off break, leg break",
+    "total_runs": 34357,
+    "total_wickets": "NA",
+    "batting_average": 48.52,
+    "bowling_average": "NA",
+    "total_centuries": 100,
+    "total_fifties": 164,
+    "strike_rate": "NA",
+    "economy_rate": "NA",
+    "best_figures": "NA",
+    "stats": {
+      "Test": "Matches: 200, Runs: 15921, Average: 53.78, Strike Rate: 54.08, Centuries: 51, Fifties: 68, Highest: 248*",
+      "ODI": "Matches: 463, Runs: 18426, Average: 44.83, Strike Rate: 86.23, Centuries: 49, Fifties: 96, Highest: 200*",
+      "T20I": "Matches: 1, Runs: 10, Average: 10.00, Strike Rate: 90.90, Centuries: 0, Fifties: 0, Highest: 10"
+    },
+    "achievements": [
+      "Only player with 100 international centuries",
+      "2011 Cricket World Cup Winner",
+      "Highest run-scorer in ODIs and Tests",
+      "First player to score ODI double century",
+      "Bharat Ratna - India's highest civilian honor",
+      "Wisden Cricketer of the Year (1997)"
+    ]
+  },
+  {
+    "name": "Ravindra Jadeja",
+    "role": "All-rounder",
+    "country": "India",
+    "dob": "December 6, 1988",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "total_runs": 6471,
+    "total_wickets": 568,
+    "batting_average": 32.85,
+    "bowling_average": 31.19,
+    "total_centuries": 4,
+    "total_fifties": 44,
+    "strike_rate": 47.8,
+    "economy_rate": 4.92,
+    "best_figures": "7/48",
+    "stats": {
+      "Test": "Matches: 73, Runs: 3200, Average: 35.26, Centuries: 4, Fifties: 18, Highest: 175*. Wickets: 294, Bowling Average: 24.63, Best: 7/48",
+      "ODI": "Matches: 197, Runs: 2756, Average: 32.93, Strike Rate: 85.32, Centuries: 0, Fifties: 13. Wickets: 220, Bowling Average: 36.25, Best: 5/36",
+      "T20I": "Matches: 74, Runs: 515, Average: 22.39, Strike Rate: 127.36. Wickets: 54, Bowling Average: 29.85, Best: 3/13"
+    },
+    "achievements": [
+      "No.1 Test all-rounder (multiple years)",
+      "2011 Cricket World Cup Winner",
+      "2013 Champions Trophy Winner",
+      "Fastest Indian to 200 Test wickets among spinners",
+      "Chennai Super Kings key player"
+    ]
+  },
+  {
+    "name": "Rishabh Pant",
+    "role": "Wicket-keeper",
+    "country": "India",
+    "dob": "October 4, 1997",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm medium",
+    "total_runs": 4123,
+    "total_wickets": "NA",
+    "batting_average": 35.28,
+    "bowling_average": "NA",
+    "total_centuries": 6,
+    "total_fifties": 19,
+    "strike_rate": "NA",
+    "economy_rate": "NA",
+    "best_figures": "NA",
+    "stats": {
+      "Test": "Matches: 33, Runs: 2271, Average: 43.67, Strike Rate: 73.46, Centuries: 5, Fifties: 11, Highest: 159*",
+      "ODI": "Matches: 30, Runs: 865, Average: 34.60, Strike Rate: 106.54, Centuries: 1, Fifties: 5, Highest: 125*",
+      "T20I": "Matches: 66, Runs: 987, Average: 22.43, Strike Rate: 126.37, Centuries: 0, Fifties: 3, Highest: 65*"
+    },
+    "achievements": [
+      "Fastest Indian wicket-keeper to 1000 Test runs",
+      "Man of the Match in Gabba Test 2021",
+      "Delhi Capitals captain",
+      "Most expensive player in IPL auction (2022)",
+      "Youngest Indian wicket-keeper to score Test century"
+    ]
+  },
+  {
+    "name": "Hardik Pandya",
+    "role": "All-rounder",
+    "country": "India",
+    "dob": "October 11, 1993",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast medium",
+    "total_runs": 3801,
+    "total_wickets": 175,
+    "batting_average": 31.01,
+    "bowling_average": 33.64,
+    "total_centuries": 2,
+    "total_fifties": 19,
+    "strike_rate": 38.5,
+    "economy_rate": 7.12,
+    "best_figures": "5/28",
+    "stats": {
+      "Test": "Matches: 11, Runs: 532, Average: 31.29, Strike Rate: 70.18, Centuries: 1, Fifties: 3, Highest: 118*. Wickets: 17, Bowling Average: 31.05, Best: 5/28",
+      "ODI": "Matches: 92, Runs: 1769, Average: 34.29, Strike Rate: 113.91, Centuries: 1, Fifties: 8. Wickets: 79, Bowling Average: 42.61, Best: 4/24",
+      "T20I": "Matches: 104, Runs: 1500, Average: 27.77, Strike Rate: 143.65. Wickets: 79, Bowling Average: 25.60, Best: 4/12"
+    },
+    "achievements": [
+      "2024 T20 World Cup Winner (Captain)",
+      "Mumbai Indians captain (2022-2023)",
+      "Gujarat Titans captain (IPL Champion 2022)",
+      "Fastest Indian to 1000 T20I runs",
+      "Man of the Match in T20 World Cup Final 2024"
+    ]
+  },
+  {
+    "name": "Shikhar Dhawan",
+    "role": "Batsman",
+    "country": "India",
+    "dob": "December 5, 1985",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm off break",
+    "total_runs": 10867,
+    "total_wickets": "NA",
+    "batting_average": 40.36,
+    "bowling_average": "NA",
+    "total_centuries": 24,
+    "total_fifties": 55,
+    "strike_rate": "NA",
+    "economy_rate": "NA",
+    "best_figures": "NA",
+    "stats": {
+      "Test": "Matches: 34, Runs: 2315, Average: 40.61, Strike Rate: 62.14, Centuries: 7, Fifties: 5, Highest: 187",
+      "ODI": "Matches: 167, Runs: 6793, Average: 44.11, Strike Rate: 91.35, Centuries: 17, Fifties: 39, Highest: 143",
+      "T20I": "Matches: 68, Runs: 1759, Average: 27.92, Strike Rate: 126.36, Centuries: 0, Fifties: 11, Highest: 92"
+    },
+    "achievements": [
+      "2013 Champions Trophy Winner (Golden Bat)",
+      "Fastest century on Test debut",
+      "Punjab Kings captain",
+      "Leading run-scorer in Champions Trophy 2017",
+      "ICC Champions Trophy Team of Tournament (2013, 2017)"
+    ]
+  },
+  {
+    "name": "Mohammed Shami",
+    "role": "Bowler",
+    "country": "India",
+    "dob": "September 3, 1990",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast medium",
+    "total_runs": "NA",
+    "total_wickets": 448,
+    "batting_average": "NA",
+    "bowling_average": 26.85,
+    "total_centuries": "NA",
+    "total_fifties": "NA",
+    "strike_rate": 49.2,
+    "economy_rate": 4.86,
+    "best_figures": "7/57",
+    "stats": {
+      "Test": "Matches: 64, Wickets: 229, Bowling Average: 27.36, Economy: 2.82, Best: 6/56",
+      "ODI": "Matches: 95, Wickets: 195, Bowling Average: 24.81, Economy: 5.96, Best: 7/57",
+      "T20I": "Matches: 23, Wickets: 24, Bowling Average: 29.66, Economy: 8.41, Best: 3/15"
+    },
+    "achievements": [
+      "Leading wicket-taker 2019 World Cup",
+      "Fastest Indian to 150 ODI wickets",
+      "200+ Test wickets",
+      "Gujarat Titans key bowler",
+      "Best figures by Indian in World Cup (7/57)"
+    ]
+  },
+  {
+    "name": "Mohammed Siraj",
+    "role": "Bowler",
+    "country": "India",
+    "dob": "March 13, 1994",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast medium",
+    "total_runs": "NA",
+    "total_wickets": 182,
+    "batting_average": "NA",
+    "bowling_average": 26.15,
+    "total_centuries": "NA",
+    "total_fifties": "NA",
+    "strike_rate": 42.8,
+    "economy_rate": 5.69,
+    "best_figures": "6/15",
+    "stats": {
+      "Test": "Matches: 23, Wickets: 87, Bowling Average: 28.32, Economy: 3.01, Best: 6/15",
+      "ODI": "Matches: 35, Wickets: 69, Bowling Average: 23.36, Economy: 5.73, Best: 6/21",
+      "T20I": "Matches: 25, Wickets: 26, Bowling Average: 27.30, Economy: 8.68, Best: 4/17"
+    },
+    "achievements": [
+      "Best Test bowling figures at Lord's by Indian (4/94)",
+      "Leading wicket-taker Asia Cup 2023",
+      "Royal Challengers Bangalore key bowler",
+      "Fastest Indian to 50 ODI wickets",
+      "Hat-trick in Test cricket"
+    ]
+  },
+  {
+    "name": "Yuzvendra Chahal",
+    "role": "Bowler",
+    "country": "India",
+    "dob": "July 10, 1990",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm leg break",
+    "total_runs": "NA",
+    "total_wickets": 217,
+    "batting_average": "NA",
+    "bowling_average": 25.95,
+    "total_centuries": "NA",
+    "total_fifties": "NA",
+    "strike_rate": 32.1,
+    "economy_rate": 6.41,
+    "best_figures": "6/25",
+    "stats": {
+      "Test": "Matches: 0, Wickets: 0, Bowling Average: 0, Economy: 0, Best: 0/0",
+      "ODI": "Matches: 72, Wickets: 121, Bowling Average: 27.13, Economy: 5.26, Best: 6/42",
+      "T20I": "Matches: 80, Wickets: 96, Bowling Average: 25.09, Economy: 8.18, Best: 6/25"
+    },
+    "achievements": [
+      "Best T20I bowling figures by Indian (6/25)",
+      "Leading wicket-taker for India in T20Is",
+      "Rajasthan Royals key spinner",
+      "Purple Cap winner IPL 2022",
+      "First Indian to take 6 wickets in T20I"
+    ]
+  },
+  {
+    "name": "Kuldeep Yadav",
+    "role": "Bowler",
+    "country": "India",
+    "dob": "December 14, 1994",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm chinaman",
+    "total_runs": "NA",
+    "total_wickets": 195,
+    "batting_average": "NA",
+    "bowling_average": 25.86,
+    "total_centuries": "NA",
+    "total_fifties": "NA",
+    "strike_rate": 36.4,
+    "economy_rate": 5.38,
+    "best_figures": "6/25",
+    "stats": {
+      "Test": "Matches: 6, Wickets: 24, Bowling Average: 21.56, Economy: 2.60, Best: 5/99",
+      "ODI": "Matches: 75, Wickets: 118, Bowling Average: 27.68, Economy: 4.88, Best: 6/25",
+      "T20I": "Matches: 42, Wickets: 53, Bowling Average: 21.43, Economy: 7.38, Best: 5/24"
+    },
+    "achievements": [
+      "First Indian left-arm wrist spinner in decades",
+      "Hat-trick vs Australia in ODI",
+      "Best ODI bowling figures by Indian left-arm spinner",
+      "Delhi Capitals key spinner",
+      "Purple Cap contender multiple IPL seasons"
+    ]
+  },
+  {
+    "name": "K. L. Rahul",
+    "role": "Wicket-keeper",
+    "country": "India",
+    "dob": "April 18, 1992",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "total_runs": 7862,
+    "total_wickets": "NA",
+    "batting_average": 38.93,
+    "bowling_average": "NA",
+    "total_centuries": 16,
+    "total_fifties": 49,
+    "strike_rate": "NA",
+    "economy_rate": "NA",
+    "best_figures": "NA",
+    "stats": {
+      "Test": "Matches: 48, Runs: 2863, Average: 34.58, Strike Rate: 55.91, Centuries: 8, Fifties: 12, Highest: 199",
+      "ODI": "Matches: 72, Runs: 2734, Average: 45.56, Strike Rate: 86.54, Centuries: 6, Fifties: 15, Highest: 112",
+      "T20I": "Matches: 72, Runs: 2265, Average: 37.75, Strike Rate: 139.04, Centuries: 2, Fifties: 22, Highest: 110*"
+    },
+    "achievements": [
+      "Fastest T20I fifty by Indian (14 balls)",
+      "Lucknow Super Giants captain",
+      "Orange Cap winner IPL 2020, 2022",
+      "Highest individual score in IPL (132*)",
+      "Most runs in IPL season (670 in 2022)"
+    ]
+  },
+  {
+    "name": "Bhuvneshwar Kumar",
+    "role": "Bowler",
+    "country": "India",
+    "dob": "February 5, 1990",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast medium",
+    "total_runs": "NA",
+    "total_wickets": 294,
+    "batting_average": "NA",
+    "bowling_average": 30.85,
+    "total_centuries": "NA",
+    "total_fifties": "NA",
+    "strike_rate": 53.2,
+    "economy_rate": 5.18,
+    "best_figures": "6/33",
+    "stats": {
+      "Test": "Matches: 21, Wickets: 63, Bowling Average: 26.63, Economy: 2.69, Best: 6/33",
+      "ODI": "Matches: 121, Wickets: 141, Bowling Average: 36.62, Economy: 4.65, Best: 5/42",
+      "T20I": "Matches: 87, Wickets: 90, Bowling Average: 25.51, Economy: 7.05, Best: 5/4"
+    },
+    "achievements": [
+      "2013 Champions Trophy Winner",
+      "Purple Cap winner IPL 2016, 2017",
+      "Best bowling figures in T20I powerplay",
+      "Sunrisers Hyderabad key bowler",
+      "Leading wicket-taker Champions Trophy 2017"
+    ]
+  },
+  {
+    "name": "Suresh Raina",
+    "role": "All-rounder",
+    "country": "India",
+    "dob": "November 27, 1986",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm off break",
+    "total_runs": 7988,
+    "total_wickets": 36,
+    "batting_average": 33.34,
+    "bowling_average": 52.85,
+    "total_centuries": 6,
+    "total_fifties": 45,
+    "strike_rate": 61.8,
+    "economy_rate": 6.42,
+    "best_figures": "2/18",
+    "stats": {
+      "Test": "Matches: 18, Runs: 768, Average: 26.48, Strike Rate: 62.33, Centuries: 1, Fifties: 4, Highest: 120",
+      "ODI": "Matches: 226, Runs: 5615, Average: 35.31, Strike Rate: 93.50, Centuries: 5, Fifties: 36, Highest: 116*",
+      "T20I": "Matches: 78, Runs: 1605, Average: 29.18, Strike Rate: 134.87, Centuries: 0, Fifties: 5, Highest: 101"
+    },
+    "achievements": [
+      "2011 Cricket World Cup Winner",
+      "2013 Champions Trophy Winner",
+      "Chennai Super Kings legend",
+      "First Indian to score T20I century",
+      "Most catches by Indian fielder in internationals"
+    ]
+  },
+  {
+    "name": "Dinesh Karthik",
+    "role": "Wicket-keeper",
+    "country": "India",
+    "dob": "June 1, 1985",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "total_runs": 3463,
+    "total_wickets": "NA",
+    "batting_average": 25.46,
+    "bowling_average": "NA",
+    "total_centuries": 2,
+    "total_fifties": 19,
+    "strike_rate": "NA",
+    "economy_rate": "NA",
+    "best_figures": "NA",
+    "stats": {
+      "Test": "Matches: 26, Runs: 1025, Average: 25.00, Strike Rate: 47.15, Centuries: 1, Fifties: 7, Highest: 129",
+      "ODI": "Matches: 94, Runs: 1752, Average: 25.75, Strike Rate: 86.36, Centuries: 1, Fifties: 9, Highest: 79",
+      "T20I": "Matches: 60, Runs: 686, Average: 27.44, Strike Rate: 143.35, Centuries: 0, Fifties: 3, Highest: 48"
+    },
+    "achievements": [
+      "2007 T20 World Cup Winner",
+      "Nidahas Trophy Final Hero (2018)",
+      "Royal Challengers Bangalore finisher",
+      "Tamil Nadu captain",
+      "IPL veteran (17+ seasons)"
+    ]
+  },
+  {
+    "name": "Kedar Jadhav",
+    "role": "All-rounder",
+    "country": "India",
+    "dob": "March 26, 1985",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm off break",
+    "total_runs": 1628,
+    "total_wickets": 27,
+    "batting_average": 38.76,
+    "bowling_average": 45.12,
+    "total_centuries": 2,
+    "total_fifties": 7,
+    "strike_rate": 38.2,
+    "economy_rate": 5.86,
+    "best_figures": "2/42",
+    "stats": {
+      "Test": "Matches: 2, Runs: 117, Average: 39.00, Strike Rate: 56.52, Centuries: 0, Fifties: 1, Highest: 91",
+      "ODI": "Matches: 73, Runs: 1389, Average: 42.09, Strike Rate: 101.30, Centuries: 2, Fifties: 6, Highest: 120",
+      "T20I": "Matches: 9, Runs: 122, Average: 24.40, Strike Rate: 134.06, Centuries: 0, Fifties: 0, Highest: 38*"
+    },
+    "achievements": [
+      "2019 World Cup semi-finalist",
+      "Versatile middle-order batsman",
+      "Chennai Super Kings key player",
+      "Maharashtra captain",
+      "Part-time off-spinner"
+    ]
+  },
+  {
+    "name": "Vijay Shankar",
+    "role": "All-rounder",
+    "country": "India",
+    "dob": "January 26, 1991",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "total_runs": 286,
+    "total_wickets": 12,
+    "batting_average": 19.07,
+    "bowling_average": 38.25,
+    "total_centuries": 0,
+    "total_fifties": 1,
+    "strike_rate": 45.6,
+    "economy_rate": 6.84,
+    "best_figures": "2/32",
+    "stats": {
+      "Test": "Matches: 1, Runs: 26, Average: 13.00, Strike Rate: 54.16, Centuries: 0, Fifties: 0, Highest: 26",
+      "ODI": "Matches: 12, Runs: 165, Average: 16.50, Strike Rate: 94.82, Centuries: 0, Fifties: 1, Highest: 62*",
+      "T20I": "Matches: 9, Runs: 95, Average: 31.66, Strike Rate: 118.75, Centuries: 0, Fifties: 0, Highest: 43*"
+    },
+    "achievements": [
+      "2019 World Cup squad member",
+      "Tamil Nadu all-rounder",
+      "Gujarat Titans player",
+      "Ranji Trophy winner with Tamil Nadu",
+      "3D player (batting, bowling, fielding)"
+    ]
+  },
+  {
+    "name": "Chris Gayle",
+    "role": "Batsman",
+    "country": "West Indies",
+    "dob": "September 21, 1979",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm off break",
+    "total_runs": 19593,
+    "total_wickets": "NA",
+    "batting_average": 39.52,
+    "bowling_average": "NA",
+    "total_centuries": 42,
+    "total_fifties": 105,
+    "strike_rate": "NA",
+    "economy_rate": "NA",
+    "best_figures": "NA",
+    "stats": {
+      "Test": "Matches: 103, Runs: 7214, Average: 42.18, Strike Rate: 60.22, Centuries: 15, Fifties: 37, Highest: 333",
+      "ODI": "Matches: 301, Runs: 10480, Average: 37.83, Strike Rate: 87.19, Centuries: 25, Fifties: 54, Highest: 215",
+      "T20I": "Matches: 79, Runs: 1899, Average: 25.32, Strike Rate: 137.50, Centuries: 2, Fifties: 14, Highest: 117"
+    },
+    "achievements": [
+      "T20 World Cup Winner (2012, 2016)",
+      "Highest individual score in T20s (175*)",
+      "First player to score T20I century",
+      "Most sixes in international cricket",
+      "Royal Challengers Bangalore legend"
+    ]
+  },
+  {
+    "name": "A B devilliers",
+    "role": "Batsman",
+    "country": "South Africa",
+    "dob": "February 17, 1984",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "total_runs": 20014,
+    "total_wickets": "NA",
+    "batting_average": 50.24,
+    "bowling_average": "NA",
+    "total_centuries": 47,
+    "total_fifties": 108,
+    "strike_rate": "NA",
+    "economy_rate": "NA",
+    "best_figures": "NA",
+    "stats": {
+      "Test": "Matches: 114, Runs: 8765, Average: 50.66, Strike Rate: 61.29, Centuries: 22, Fifties: 46, Highest: 278*",
+      "ODI": "Matches: 228, Runs: 9577, Average: 53.50, Strike Rate: 101.09, Centuries: 25, Fifties: 53, Highest: 176",
+      "T20I": "Matches: 78, Runs: 1672, Average: 26.12, Strike Rate: 135.16, Centuries: 0, Fifties: 9, Highest: 79*"
+    },
+    "achievements": [
+      "Fastest ODI 50, 100, 150 (multiple records)",
+      "ICC ODI Player of the Year (2010, 2014, 2015)",
+      "Wisden Leading Cricketer (2010, 2014)",
+      "360-degree batting innovator",
+      "Royal Challengers Bangalore legend"
+    ]
+  },
+  {
+    "name": "Kane Williamson",
+    "role": "Batsman",
+    "country": "New Zealand",
+    "dob": "August 8, 1990",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm off break",
+    "total_runs": 16937,
+    "total_wickets": "NA",
+    "batting_average": 48.95,
+    "bowling_average": "NA",
+    "total_centuries": 45,
+    "total_fifties": 92,
+    "strike_rate": "NA",
+    "economy_rate": "NA",
+    "best_figures": "NA",
+    "stats": {
+      "Test": "Matches: 100, Runs: 8743, Average: 54.31, Strike Rate: 51.93, Centuries: 32, Fifties: 33, Highest: 251",
+      "ODI": "Matches: 167, Runs: 6173, Average: 47.48, Strike Rate: 81.17, Centuries: 13, Fifties: 42, Highest: 148",
+      "T20I": "Matches: 85, Runs: 2021, Average: 32.59, Strike Rate: 123.42, Centuries: 0, Fifties: 17, Highest: 95"
+    },
+    "achievements": [
+      "New Zealand captain across all formats",
+      "ICC Test Player of the Year (2021)",
+      "2021 WTC Final Winner (Captain)",
+      "2019 World Cup Finalist (Captain)",
+      "Sunrisers Hyderabad IPL Captain"
+    ]
+  },
+  {
+    "name": "Ben Stokes",
+    "role": "All-rounder",
+    "country": "England",
+    "dob": "June 4, 1991",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm fast medium",
+    "total_runs": 9723,
+    "total_wickets": 301,
+    "batting_average": 35.89,
+    "bowling_average": 32.93,
+    "total_centuries": 16,
+    "total_fifties": 72,
+    "strike_rate": 42.8,
+    "economy_rate": 4.96,
+    "best_figures": "6/22",
+    "stats": {
+      "Test": "Matches: 103, Runs: 6187, Average: 35.89, Centuries: 13, Fifties: 30, Highest: 258. Wickets: 199, Bowling Average: 32.10, Best: 6/22",
+      "ODI": "Matches: 105, Runs: 2924, Average: 38.98, Strike Rate: 93.20, Centuries: 3, Fifties: 21. Wickets: 74, Bowling Average: 42.39, Best: 5/61",
+      "T20I": "Matches: 43, Runs: 612, Average: 23.53, Strike Rate: 135.68. Wickets: 28, Bowling Average: 28.28, Best: 3/23"
+    },
+    "achievements": [
+      "2019 Cricket World Cup Winner",
+      "ICC Test Player of the Year (2019)",
+      "Wisden Leading Cricketer (2019)",
+      "England Test Captain",
+      "Headingley 2019 - Greatest Test innings"
+    ]
+  },
+  {
+    "name": "Steve Smith",
+    "role": "Batsman",
+    "country": "Australia",
+    "dob": "June 2, 1989",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm leg break",
+    "total_runs": 15758,
+    "total_wickets": "NA",
+    "batting_average": 48.77,
+    "bowling_average": "NA",
+    "total_centuries": 44,
+    "total_fifties": 78,
+    "strike_rate": "NA",
+    "economy_rate": "NA",
+    "best_figures": "NA",
+    "stats": {
+      "Test": "Matches: 109, Runs: 9685, Average: 56.97, Strike Rate: 56.22, Centuries: 32, Fifties: 41, Highest: 239",
+      "ODI": "Matches: 155, Runs: 4939, Average: 43.34, Strike Rate: 89.01, Centuries: 12, Fifties: 28, Highest: 164",
+      "T20I": "Matches: 67, Runs: 1134, Average: 28.35, Strike Rate: 125.69, Centuries: 0, Fifties: 9, Highest: 90"
+    },
+    "achievements": [
+      "Former Australia captain",
+      "ICC Test Player of the Year (2015, 2017)",
+      "Fastest to 7000 Test runs among Australians",
+      "Allan Border Medal winner (2015, 2018)",
+      "No.1 Test batsman for 3+ years"
+    ]
+  },
+  {
+    "name": "Babar Azam",
+    "role": "Batsman",
+    "country": "Pakistan",
+    "dob": "October 15, 1994",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "total_runs": 13336,
+    "total_wickets": "NA",
+    "batting_average": 48.01,
+    "bowling_average": "NA",
+    "total_centuries": 30,
+    "total_fifties": 87,
+    "strike_rate": "NA",
+    "economy_rate": "NA",
+    "best_figures": "NA",
+    "stats": {
+      "Test": "Matches: 53, Runs: 4122, Average: 45.85, Strike Rate: 55.15, Centuries: 10, Fifties: 26, Highest: 196",
+      "ODI": "Matches: 117, Runs: 5729, Average: 56.72, Strike Rate: 88.37, Centuries: 19, Fifties: 31, Highest: 158",
+      "T20I": "Matches: 107, Runs: 3485, Average: 41.48, Strike Rate: 129.22, Centuries: 1, Fifties: 30, Highest: 122"
+    },
+    "achievements": [
+      "Pakistan captain across all formats",
+      "ICC Men's ODI Player of the Year (2022)",
+      "Fastest to 1000, 2000, 3000 T20I runs",
+      "No.1 ODI batsman (2021-2023)",
+      "Youngest captain to lead Pakistan"
+    ]
+  },
+  {
+    "name": "Trent Boult",
+    "role": "Bowler",
+    "country": "New Zealand",
+    "dob": "July 22, 1989",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm fast medium",
+    "total_runs": "NA",
+    "total_wickets": 548,
+    "batting_average": "NA",
+    "bowling_average": 26.12,
+    "total_centuries": "NA",
+    "total_fifties": "NA",
+    "strike_rate": 48.6,
+    "economy_rate": 4.68,
+    "best_figures": "7/34",
+    "stats": {
+      "Test": "Matches: 78, Wickets: 317, Bowling Average: 27.49, Economy: 3.07, Best: 7/34",
+      "ODI": "Matches: 93, Wickets: 169, Bowling Average: 25.19, Economy: 4.85, Best: 7/34",
+      "T20I": "Matches: 46, Wickets: 62, Bowling Average: 21.77, Economy: 7.72, Best: 4/21"
+    },
+    "achievements": [
+      "Joint leading wicket-taker 2019 World Cup",
+      "First bowler to 50 T20I wickets for New Zealand",
+      "2021 WTC Final Winner",
+      "Mumbai Indians key bowler",
+      "300+ Test wickets"
+    ]
+  },
+  {
+    "name": "Jos Buttler",
+    "role": "Wicket-keeper",
+    "country": "England",
+    "dob": "September 8, 1990",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "total_runs": 9116,
+    "total_wickets": "NA",
+    "batting_average": 35.48,
+    "bowling_average": "NA",
+    "total_centuries": 7,
+    "total_fifties": 58,
+    "strike_rate": "NA",
+    "economy_rate": "NA",
+    "best_figures": "NA",
+    "stats": {
+      "Test": "Matches: 57, Runs: 2856, Average: 31.37, Strike Rate: 61.91, Centuries: 2, Fifties: 22, Highest: 152",
+      "ODI": "Matches: 162, Runs: 4120, Average: 40.78, Strike Rate: 118.52, Centuries: 4, Fifties: 25, Highest: 150",
+      "T20I": "Matches: 117, Runs: 2140, Average: 34.83, Strike Rate: 144.24, Centuries: 1, Fifties: 11, Highest: 101*"
+    },
+    "achievements": [
+      "2019 Cricket World Cup Winner",
+      "2022 T20 World Cup Winner (Captain)",
+      "England white-ball captain",
+      "Fastest T20I century by an English player",
+      "Rajasthan Royals captain"
+    ]
+  },
+  {
+    "name": "David Warner",
+    "role": "Batsman",
+    "country": "Australia",
+    "dob": "October 27, 1986",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm leg break",
+    "total_runs": 17948,
+    "total_wickets": "NA",
+    "batting_average": 41.59,
+    "bowling_average": "NA",
+    "total_centuries": 45,
+    "total_fifties": 96,
+    "strike_rate": "NA",
+    "economy_rate": "NA",
+    "best_figures": "NA",
+    "stats": {
+      "Test": "Matches: 112, Runs: 8786, Average: 44.59, Strike Rate: 70.19, Centuries: 26, Fifties: 35, Highest: 335*",
+      "ODI": "Matches: 139, Runs: 6007, Average: 45.30, Strike Rate: 95.43, Centuries: 18, Fifties: 33, Highest: 179",
+      "T20I": "Matches: 99, Runs: 3155, Average: 33.72, Strike Rate: 142.20, Centuries: 1, Fifties: 28, Highest: 100*"
+    },
+    "achievements": [
+      "Triple century vs Pakistan (335*)",
+      "2021 T20 World Cup Winner",
+      "Allan Border Medal (2017, 2020)",
+      "Leading run-scorer 2019 World Cup",
+      "Sunrisers Hyderabad former captain"
+    ]
+  },
+  {
+    "name": "Pat Cummins",
+    "role": "Bowler",
+    "country": "Australia",
+    "dob": "May 8, 1993",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "total_runs": "NA",
+    "total_wickets": 414,
+    "batting_average": "NA",
+    "bowling_average": 23.52,
+    "total_centuries": "NA",
+    "total_fifties": "NA",
+    "strike_rate": 44.8,
+    "economy_rate": 4.85,
+    "best_figures": "6/79",
+    "stats": {
+      "Test": "Matches: 64, Wickets: 269, Bowling Average: 22.20, Economy: 3.18, Best: 6/79",
+      "ODI": "Matches: 70, Wickets: 111, Bowling Average: 26.79, Economy: 4.73, Best: 5/70",
+      "T20I": "Matches: 34, Wickets: 34, Bowling Average: 27.55, Economy: 7.33, Best: 3/28"
+    },
+    "achievements": [
+      "Australia Test captain",
+      "2021 T20 World Cup Winner",
+      "2023 World Test Championship Winner (Captain)",
+      "ICC Test Player of the Year (2021, 2022)",
+      "Kolkata Knight Riders captain"
+    ]
+  },
+  {
+    "name": "Kagiso Rabada",
+    "role": "Bowler",
+    "country": "South Africa",
+    "dob": "May 25, 1995",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "total_runs": "NA",
+    "total_wickets": 472,
+    "batting_average": "NA",
+    "bowling_average": 23.95,
+    "total_centuries": "NA",
+    "total_fifties": "NA",
+    "strike_rate": 41.8,
+    "economy_rate": 5.12,
+    "best_figures": "7/112",
+    "stats": {
+      "Test": "Matches: 65, Wickets: 287, Bowling Average: 22.23, Economy: 3.32, Best: 7/112",
+      "ODI": "Matches: 98, Wickets: 154, Bowling Average: 28.46, Economy: 4.91, Best: 6/16",
+      "T20I": "Matches: 32, Wickets: 31, Bowling Average: 27.06, Economy: 7.28, Best: 3/25"
+    },
+    "achievements": [
+      "Fastest to 200 Test wickets among fast bowlers",
+      "ICC Test Player of the Year (2018)",
+      "Leading wicket-taker in multiple series",
+      "Punjab Kings key bowler",
+      "South Africa pace spearhead"
+    ]
+  },
+  {
+    "name": "Rashid Khan",
+    "role": "Bowler",
+    "country": "Afghanistan",
+    "dob": "September 20, 1998",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm leg break",
+    "total_runs": "NA",
+    "total_wickets": 344,
+    "batting_average": "NA",
+    "bowling_average": 16.38,
+    "total_centuries": "NA",
+    "total_fifties": "NA",
+    "strike_rate": 29.8,
+    "economy_rate": 4.92,
+    "best_figures": "7/18",
+    "stats": {
+      "Test": "Matches: 6, Wickets: 34, Bowling Average: 11.76, Economy: 2.77, Best: 7/18",
+      "ODI": "Matches: 96, Wickets: 170, Bowling Average: 18.52, Economy: 4.28, Best: 7/18",
+      "T20I": "Matches: 84, Wickets: 140, Bowling Average: 12.62, Economy: 6.14, Best: 5/3"
+    },
+    "achievements": [
+      "No.1 T20I bowler (multiple years)",
+      "Youngest player to captain in all formats",
+      "ICC Associate Player of the Year (2017, 2018)",
+      "Sunrisers Hyderabad key spinner",
+      "Afghanistan cricket pioneer"
+    ]
+  },
+  {
+    "name": "Shakib Al Hasan",
+    "role": "All-rounder",
+    "country": "Bangladesh",
+    "dob": "March 24, 1987",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "total_runs": 14730,
+    "total_wickets": 703,
+    "batting_average": 36.21,
+    "bowling_average": 28.16,
+    "total_centuries": 14,
+    "total_fifties": 99,
+    "strike_rate": 46.2,
+    "economy_rate": 4.86,
+    "best_figures": "7/36",
+    "stats": {
+      "Test": "Matches: 71, Runs: 4609, Average: 39.22, Centuries: 5, Fifties: 31, Highest: 217. Wickets: 237, Bowling Average: 30.16, Best: 7/36",
+      "ODI": "Matches: 247, Runs: 7570, Average: 37.66, Strike Rate: 82.52, Centuries: 9, Fifties: 51. Wickets: 317, Bowling Average: 29.72, Best: 6/8",
+      "T20I": "Matches: 123, Runs: 2551, Average: 24.77, Strike Rate: 119.33. Wickets: 149, Bowling Average: 19.83, Best: 5/20"
+    },
+    "achievements": [
+      "No.1 ODI all-rounder (multiple years)",
+      "First player to score 5000+ runs and take 250+ wickets in ODIs",
+      "Bangladesh captain across formats",
+      "ICC Player of the Month winner",
+      "Kolkata Knight Riders key player"
+    ]
+  },
+  {
+    "name": "Smriti Mandhana",
+    "role": "Batsman",
+    "country": "India",
+    "dob": "July 18, 1996",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm medium",
+    "total_runs": 6667,
+    "total_wickets": "NA",
+    "batting_average": 32.89,
+    "bowling_average": "NA",
+    "total_centuries": 6,
+    "total_fifties": 45,
+    "strike_rate": "NA",
+    "economy_rate": "NA",
+    "best_figures": "NA",
+    "stats": {
+      "Test": "Matches: 4, Runs: 192, Average: 27.42, Strike Rate: 43.73, Centuries: 0, Fifties: 1, Highest: 78",
+      "ODI": "Matches: 95, Runs: 3454, Average: 43.17, Strike Rate: 87.94, Centuries: 5, Fifties: 27, Highest: 136",
+      "T20I": "Matches: 143, Runs: 3021, Average: 24.96, Strike Rate: 120.18, Centuries: 1, Fifties: 17, Highest: 83"
+    },
+    "achievements": [
+      "ICC Women's Cricketer of the Year (2018, 2021)",
+      "Wisden Leading Woman Cricketer (2018)",
+      "Fastest Indian woman to 2000 ODI runs",
+      "Royal Challengers Bangalore Women captain",
+      "Rachael Heyhoe Flint Trophy winner"
+    ]
+  },
+  {
+    "name": "Harmanpreet Kaur",
+    "role": "All-rounder",
+    "country": "India",
+    "dob": "March 8, 1989",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm off break",
+    "total_runs": 7510,
+    "total_wickets": 42,
+    "batting_average": 32.64,
+    "bowling_average": 38.52,
+    "total_centuries": 5,
+    "total_fifties": 42,
+    "strike_rate": 42.8,
+    "economy_rate": 5.86,
+    "best_figures": "3/18",
+    "stats": {
+      "Test": "Matches: 3, Runs: 215, Average: 35.83, Strike Rate: 56.43, Centuries: 1, Fifties: 0, Highest: 131*",
+      "ODI": "Matches: 139, Runs: 4274, Average: 35.28, Strike Rate: 84.20, Centuries: 4, Fifties: 25, Highest: 171*",
+      "T20I": "Matches: 165, Runs: 3021, Average: 27.46, Strike Rate: 120.93, Centuries: 0, Fifties: 17, Highest: 103*"
+    },
+    "achievements": [
+      "India Women captain across all formats",
+      "2017 World Cup Final Hero (171*)",
+      "First Indian woman to score T20I century",
+      "Melbourne Stars (WBBL) player",
+      "Arjuna Award recipient"
+    ]
+  },
+  {
+    "name": "Shafali Verma",
+    "role": "Batsman",
+    "country": "India",
+    "dob": "January 28, 2004",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm off break",
+    "total_runs": 2503,
+    "total_wickets": "NA",
+    "batting_average": 28.21,
+    "bowling_average": "NA",
+    "total_centuries": 0,
+    "total_fifties": 14,
+    "strike_rate": "NA",
+    "economy_rate": "NA",
+    "best_figures": "NA",
+    "stats": {
+      "Test": "Matches: 3, Runs: 152, Average: 30.40, Strike Rate: 48.87, Centuries: 0, Fifties: 1, Highest: 96",
+      "ODI": "Matches: 25, Runs: 617, Average: 28.04, Strike Rate: 98.24, Centuries: 0, Fifties: 4, Highest: 71*",
+      "T20I": "Matches: 67, Runs: 1734, Average: 27.09, Strike Rate: 148.54, Centuries: 0, Fifties: 9, Highest: 81*"
+    },
+    "achievements": [
+      "Youngest Indian to debut in T20I cricket",
+      "ICC Women's T20 World Cup 2020 finalist",
+      "Fastest to 1000 T20I runs among Indian women",
+      "Birmingham Phoenix (The Hundred) player",
+      "ICC Women's T20I Team of the Year"
+    ]
+  },
+  {
+    "name": "Jemimah Rodrigues",
+    "role": "Batsman",
+    "country": "India",
+    "dob": "September 5, 2000",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm off break",
+    "total_runs": 2135,
+    "total_wickets": "NA",
+    "batting_average": 28.46,
+    "bowling_average": "NA",
+    "total_centuries": 0,
+    "total_fifties": 13,
+    "strike_rate": "NA",
+    "economy_rate": "NA",
+    "best_figures": "NA",
+    "stats": {
+      "Test": "Matches: 1, Runs: 49, Average: 49.00, Strike Rate: 42.24, Centuries: 0, Fifties: 0, Highest: 49",
+      "ODI": "Matches: 33, Runs: 819, Average: 29.25, Strike Rate: 79.98, Centuries: 0, Fifties: 6, Highest: 81*",
+      "T20I": "Matches: 58, Runs: 1267, Average: 26.39, Strike Rate: 120.38, Centuries: 0, Fifties: 7, Highest: 76*"
+    },
+    "achievements": [
+      "Youngest Indian woman to score ODI fifty",
+      "Northern Diamonds (Rachael Heyhoe Flint Trophy) player",
+      "Mumbai Indians Women player",
+      "ICC Women's T20 World Cup 2020 participant",
+      "Rising star of Indian women's cricket"
+    ]
+  },
+  {
+    "name": "Deepti Sharma",
+    "role": "All-rounder",
+    "country": "India",
+    "dob": "August 24, 1997",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm off break",
+    "total_runs": 2383,
+    "total_wickets": 207,
+    "batting_average": 22.34,
+    "bowling_average": 24.85,
+    "total_centuries": 0,
+    "total_fifties": 17,
+    "strike_rate": 34.2,
+    "economy_rate": 4.28,
+    "best_figures": "6/31",
+    "stats": {
+      "Test": "Matches: 4, Runs: 171, Average: 28.50, Strike Rate: 51.05, Centuries: 0, Fifties: 1, Highest: 78*. Wickets: 16, Bowling Average: 19.93, Best: 4/88",
+      "ODI": "Matches: 85, Runs: 1463, Average: 24.38, Strike Rate: 84.02, Centuries: 0, Fifties: 8. Wickets: 106, Bowling Average: 29.71, Best: 6/31",
+      "T20I": "Matches: 94, Runs: 749, Average: 17.90, Strike Rate: 106.38. Wickets: 85, Bowling Average: 21.45, Best: 3/7"
+    },
+    "achievements": [
+      "First Indian woman to take 100 ODI wickets",
+      "ICC Women's Player of the Month winner",
+      "Key member of India's bowling attack",
+      "London Spirit (The Hundred) player",
+      "Versatile all-rounder across formats"
+    ]
+  },
+  {
+    "name": "Richa Ghosh",
+    "role": "Wicket-keeper",
+    "country": "India",
+    "dob": "September 28, 2003",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "total_runs": 908,
+    "total_wickets": "NA",
+    "batting_average": 21.62,
+    "bowling_average": "NA",
+    "total_centuries": 0,
+    "total_fifties": 4,
+    "strike_rate": "NA",
+    "economy_rate": "NA",
+    "best_figures": "NA",
+    "stats": {
+      "Test": "Matches: 1, Runs: 32, Average: 16.00, Strike Rate: 59.25, Centuries: 0, Fifties: 0, Highest: 32",
+      "ODI": "Matches: 14, Runs: 259, Average: 23.54, Strike Rate: 93.84, Centuries: 0, Fifties: 2, Highest: 52",
+      "T20I": "Matches: 45, Runs: 617, Average: 20.56, Strike Rate: 127.51, Centuries: 0, Fifties: 2, Highest: 61*"
+    },
+    "achievements": [
+      "Youngest Indian wicket-keeper in T20Is",
+      "ICC Women's T20 World Cup 2023 participant",
+      "Royal Challengers Bangalore Women player",
+      "Promising talent in Indian women's cricket",
+      "Dynamic wicket-keeper batsman"
+    ]
+  },
+  {
+    "name": "Yastika Bhatia",
+    "role": "Wicket-keeper",
+    "country": "India",
+    "dob": "November 7, 1999",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm medium",
+    "total_runs": 676,
+    "total_wickets": "NA",
+    "batting_average": 20.48,
+    "bowling_average": "NA",
+    "total_centuries": 0,
+    "total_fifties": 3,
+    "strike_rate": "NA",
+    "economy_rate": "NA",
+    "best_figures": "NA",
+    "stats": {
+      "Test": "Matches: 1, Runs: 44, Average: 22.00, Strike Rate: 44.44, Centuries: 0, Fifties: 0, Highest: 44",
+      "ODI": "Matches: 18, Runs: 365, Average: 22.81, Strike Rate: 75.36, Centuries: 0, Fifties: 2, Highest: 68*",
+      "T20I": "Matches: 17, Runs: 267, Average: 19.07, Strike Rate: 105.51, Centuries: 0, Fifties: 1, Highest: 68"
+    },
+    "achievements": [
+      "Left-handed wicket-keeper for India",
+      "Mumbai Indians Women player",
+      "ICC Women's T20 World Cup 2023 participant",
+      "Emerging talent in Indian cricket",
+      "Versatile top-order batsman"
+    ]
+  }
+]
